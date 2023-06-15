@@ -17,7 +17,7 @@ This Android app allows you to publish mDNS services of type `_http._tcp` and sc
 
 ## Getting Started
 
-1. Clone the repository: https://github.com/devsaini1511/SmitchTask/new
+1. Clone the repository: https://github.com/devsaini1511/SmitchTask.git
 
 2. Open the project in Android Studio.
 
