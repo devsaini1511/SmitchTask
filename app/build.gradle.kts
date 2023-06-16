@@ -65,6 +65,7 @@ dependencies {
     kapt ("com.google.dagger:hilt-compiler:2.45")
     implementation("androidx.hilt:hilt-work:1.0.0")
     kapt("androidx.hilt:hilt-compiler:1.0.0")
+    implementation ("androidx.work:work-runtime-ktx:2.7.1")
 
 
 }
